@@ -1,1 +1,1 @@
-~# TheOdinProject Landing Page Template
+# TheOdinProject Landing Page Template
